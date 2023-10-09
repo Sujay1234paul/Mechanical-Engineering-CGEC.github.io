@@ -18,7 +18,7 @@ html{
     background-repeat: repeat;
     background-position: center;
     background-size: cover;
-    height: 150vh;
+    height: auto;
 }
 
 
@@ -319,7 +319,7 @@ ul li{
     background-repeat: repeat;
     background-position: center;
     background-size: cover;
-    height: 150vh;
+    height: auto;
 }
 
 .cad{
